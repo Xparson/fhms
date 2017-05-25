@@ -67,7 +67,7 @@ public class Reporter {
         this.phone = phone;
     }
    
-
+//method for saving report
     public void save(Reporter reporter) {
         try {
             //JDBC_DRIVER
